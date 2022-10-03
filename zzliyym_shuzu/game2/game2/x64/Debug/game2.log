@@ -1,0 +1,5 @@
+﻿  game2.c
+  zzliyym_game2.c
+D:\我是一个程序员\learn\zzliyym_shuzu\game2\game2\zzliyym_game2.c(1,1): warning C4828: 文件包含在偏移 0x472 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  正在生成代码...
+  game2.vcxproj -> D:\我是一个程序员\learn\zzliyym_shuzu\game2\x64\Debug\game2.exe
